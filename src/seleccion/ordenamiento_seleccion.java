@@ -11,6 +11,8 @@ package seleccion;
  */
 class ordenamiento_seleccion {
     
+    //terecaskas
+    
     void sort (int num[]) {
         
         int n = num.length;
